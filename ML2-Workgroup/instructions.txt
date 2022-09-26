@@ -1,0 +1,3 @@
+This is a binary classification task. The target variable is deposit.
+
+Your submission will be a Jupyter Notebook written entirely in Python. If you use libraries different from those used in class (see the requirements.txt file in the GitHub repository for class_notebooks), please explain what are the reasons to do so, and why existing alternatives do not work (if any).
