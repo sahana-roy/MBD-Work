@@ -1,6 +1,6 @@
 # **Prediction Model: Bike Sharing Provisioning**
 
-Here, I experiment with PyCaret and Streamlit.
+Here, I experiment with PyCaret and Streamlit. In order to present the code, I created Reveal.js slides as well.
 
 ### **About the challenge**
 
