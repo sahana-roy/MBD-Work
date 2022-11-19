@@ -1,5 +1,6 @@
 # Credit Card Default
-Here, I share my winning solution to the challenge of building a model to predict credit card defaulters accurately **in order to minimize money loss**
+Here, I share my winning solution to the challenge of building a model to predict credit card defaulters accurately **in order to minimize money loss**.
+
 For this task, I was given a set of data on default payments and demographic data to help us do our task. Data is comprised in the following CSV files, each containing a set of information related to 20,000 customers.
 
 ## **About the data**
