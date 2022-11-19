@@ -1,10 +1,10 @@
 <em>In this repository, I share some of the work I've done as part of the MSc. Big Data and Business Analytics course at IE.</em> 
 
-## 🌟 **1. Understanding the ML Pipeline: Titanic Dataset**
+## **1. Understanding the ML Pipeline: Titanic Dataset**
 
 Understanding the main aspects of the practical implementation of a Machine Learning Pipeline, from the data reading to the model training using the Titanic dataset
 
-## 🌟 **2. PySpark MLlib: Titanic Dataset**
+## **2. PySpark MLlib: Titanic Dataset**
 
 Similar to **(1)** but using  <em>MLlib</em> in PySpark. The processing is done on stored data in Hadoop. Also, features are assembled into an ML pipeline.
 
