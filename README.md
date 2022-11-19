@@ -45,3 +45,19 @@ Variables in order:
 The dataset collected is related to 17 campaigns that occurred between May 2008 and November 2010, corresponding to a total of 79354 contacts. During these phone campaigns, an attractive long-term deposit application, with good interest rates, was offered. For each contact, a large number of attributes was stored and if there was a success (the target variable). For the whole database considered, there were 6499 successes (8% success rate). 
 
 The dataset can be found in Kaggle (https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset).
+
+## 🌟 **6. Bike Sharing Provisioning**
+
+As part of the team of the hired consultancy firm, my work was to build an interactive, insightful and complete report about the bike-sharing service in the city for the head of transportation services of the local government. As part of the requirements, there are two big points:
+
+- The customer wants a deep analysis of the bike-sharing service. He wants to know how the citizens are using the service in order to know if some changes must be made to optimize costs or provide a better service.
+- The customer also wants a predictive model able to predict the total number of bicycle users on an hourly basis. They believe this will help them in the optimization of bike provisioning and will optimize the costs incurred from the outsourcing transportation company.
+
+Here, I used--
+- PyCaret
+- Streamlit
+- Reveal.js
+
+## 🌟 **7. Credit Card Default**
+
+Here, I share my winning solution to the challenge of building a model to predict credit card defaulters accurately in order to minimize money loss.
